@@ -1,0 +1,2 @@
+# Higgs-Boson-Machine-Learning-Challenge
+The goal of this Machine Learning Challenge is to improve on the discovery significance of the tau tau decay signal. Using simulated data with features characterizing events detected by ATLAS, our task is to classify events into "tau tau decay of a Higgs boson" or "background". - See more at: http://blog.nycdatascience.com/r/secretepipeline-higgs-boson-machine-learning-challenge/#sthash.YqsRgvMv.dpuf
